@@ -34,8 +34,8 @@ export class ItemInfoService {
     });
     Promise.all(this.promiseArray).then((items:Item[]) => {
       items.forEach((singleItem:Item) => {
+        console.log(singleItem);
         this.simpleItemArray.forEach((simpleItem:ISimpleItem) => {
-          console.log(singleItem);
           if (singleItem.item.id.toString() === simpleItem.id) {
             singleItem.item.bhPrice = simpleItem.BhPrice;
             singleItem.item.goldRatio = (parseFloat(singleItem.item.current.price.split("k")[0]) * 1000) / singleItem.item.bhPrice;

@@ -1,7 +1,7 @@
 <!--The content below is only a placeholder and can be replaced.-->
 <p-toolbar>
   <div class="ui-toolbar-group-left">
-    <button type="text" (click)="display = true" pButton icon="pi pi-bars" label="Show"></button>
+    <button type="text" (click)="display = true" pButton icon="pi pi-bars" label="Menu"></button>
   </div>
   
   <div class="ui-toolbar-group-right">
@@ -11,7 +11,7 @@
   </div>
 </p-toolbar>
 <p-sidebar [(visible)]="display">
-  <p-menu [model]="items"></p-menu>
+  <p-menu [model]="items" class="menu-bar"></p-menu>
 </p-sidebar>
 
 <router-outlet></router-outlet>
