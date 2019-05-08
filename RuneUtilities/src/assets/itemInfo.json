@@ -1,0 +1,205 @@
+[
+    {
+        "name": "Dragon Scimitar",
+        "id": "4587",
+        "BhPrice": 300000
+
+    },
+    {
+        "name": "DragonLongsword",
+        "id": "1305",
+        "BhPrice": 300000
+
+    },
+    {
+        "name": "DragonDagger",
+        "id": "1215",
+        "BhPrice": 90000
+
+    },
+    {
+        "name": "DragonBattleAxe",
+        "id": "1377",
+        "BhPrice": 600000
+
+    },
+    {
+        "name": "DragonMace",
+        "id": "1434",
+        "BhPrice": 150000
+
+    },
+    {
+        "name": "DragonHalberd",
+        "id": "3204",
+        "BhPrice": 900000
+
+    },
+    {
+        "name": "HelmOfNeitiznot",
+        "id": "10828",
+        "BhPrice": 150000
+
+    },
+    {
+        "name": "BerserkerHelm",
+        "id": "3751",
+        "BhPrice": 234000
+
+    },
+    {
+        "name": "Warrior helm",
+        "id": "3753",
+        "BhPrice": 234000
+    },
+    {
+        "name": "Archer helm",
+        "id": "3749",
+        "BhPrice": 234000
+    },
+    {
+        "name": "Farseer helm",
+        "id": "3755",
+        "BhPrice": 234000
+    },
+    {
+        "name": "Mystic robe top (blue)",
+        "id": "4091",
+        "BhPrice": 360000
+    },
+    {
+        "name": "Mystic robe bottom (blue)",
+        "id": "4093",
+        "BhPrice": 240000
+    },
+    {
+        "name": "Mystic hat (blue)",
+        "id": "4089",
+        "BhPrice": 45000
+    },
+    {
+        "name": "Mystic gloves (blue)",
+        "id": "4095",
+        "BhPrice": 30000
+    },
+    {
+        "name": "Mystic boots (blue)",
+        "id": "4097",
+        "BhPrice": 30000
+    },
+    {
+        "name": "Rune platebody",
+        "id": "1127",
+        "BhPrice": 255000
+    },
+    {
+        "name": "Rune platelegs",
+        "id": "1079",
+        "BhPrice": 192000
+    },
+    {
+        "name": "Rune plateskirt",
+        "id": "1093",
+        "BhPrice": 192000
+    },
+    {
+        "name": "Crystal seed",
+        "id": "4207",
+        "BhPrice": 540000
+    },
+    {
+        "name": "Green dark bow paint",
+        "id": "12759",
+        "BhPrice": 500000
+    },
+    {
+        "name": "Yellow dark bow paint",
+        "id": "12761",
+        "BhPrice": 500000
+    },
+    {
+        "name": "White dark bow paint",
+        "id": "12763",
+        "BhPrice": 500000
+    },
+    {
+        "name": "Blue dark bow paint",
+        "id": "12757",
+        "BhPrice": 500000
+    },
+    {
+        "name": "Paddewwa teleport",
+        "id": "12781",
+        "BhPrice": 10000
+    },
+    {
+        "name": "Senntisten teleport",
+        "id": "12782",
+        "BhPrice": 10000
+    },
+    {
+        "name": "Annakarl teleport",
+        "id": "12775",
+        "BhPrice": 10000
+    },
+    {
+        "name": "Carrallangar teleport",
+        "id": "12776",
+        "BhPrice": 10000
+    },
+    {
+        "name": "Dareeyak teleport",
+        "id": "12777",
+        "BhPrice": 10000
+    },
+    {
+        "name": "Ghorrock teleport",
+        "id": "12778",
+        "BhPrice": 10000
+    },
+    {
+        "name": "Kharyrll teleport",
+        "id": "12779",
+        "BhPrice": 10000
+    },
+    {
+        "name": "Lassar teleport",
+        "id": "12780",
+        "BhPrice": 10000
+    },
+    {
+        "name": "Volcanic whip mix",
+        "id": "12771",
+        "BhPrice": 500000
+    },
+    {
+        "name": "Frozen whip mix",
+        "id": "12769",
+        "BhPrice": 500000
+    },
+    {
+        "name": "Steam staff upgrade kit",
+        "id": "12798",
+        "BhPrice": 250000
+    },
+    {
+        "name": "Lava staff upgrade kit",
+        "id": "21202",
+        "BhPrice": 250000
+    },
+    {
+        "name": "Dragon pickaxe upgrade kit",
+        "id": "12800",
+        "BhPrice": 300000
+    },
+    {
+        "name": "Ward upgrade kit",
+        "id": "12802",
+        "BhPrice": 350000
+    },
+    {
+        "name": "Ring of wealth scroll",
+        "id": "12783",
+        "BhPrice": 50000
+    }
+]

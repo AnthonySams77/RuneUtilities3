@@ -1,0 +1,17 @@
+    <table min-width="%100">
+      <tr>
+        <th>icon</th>
+        <th>Name</th>
+        <th>Bounty Hunter Point Cost</th>
+        <th>Gold Value</th>
+        <th>gp/ bh point</th>
+      </tr>
+  
+      <tr *ngFor="let item of this.itemDataService.itemArray">
+        <td class="itemIcon"><img [src]="item.item.icon" /></td>
+        <td class="itemName">{{item.item.name}}</td>
+        <td class="itemBHP">{{item.item.bhPrice | number}}</td>
+        <td class="itemGold">{{item.item.current.price}}</td>
+        <td class="itemRatio">{{item.item.goldRatio | number:'1.2-2'}}</td>
+      </tr>
+    </table>
