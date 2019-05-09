@@ -20,10 +20,22 @@
       <ng-template pTemplate="header">
         <tr>
           <th>icon</th>
-          <th>Name</th>
-          <th>Bounty Hunter Point Cost</th>
-          <th>Gold Value</th>
-          <th>gp/ bh point</th>
+          <th [pSortableColumn]="'item.name'">
+              <p-sortIcon [field]="'item.name'"></p-sortIcon>
+            Name
+          </th>
+          <th [pSortableColumn]="'item.bhPrice'">
+              <p-sortIcon [field]="'item.bhPrice'"></p-sortIcon>
+            Bounty Hunter Point Cost
+          </th>
+          <th [pSortableColumn]="'item.current.price'">
+              <p-sortIcon [field]="'item.current.price'"></p-sortIcon>
+            Gold Value
+          </th>
+          <th [pSortableColumn]="'item.goldRatio'">
+            <p-sortIcon [field]="'item.goldRatio'"></p-sortIcon>
+            gp/ bh point
+          </th>
         </tr>
       </ng-template>
       <ng-template pTemplate="body" let-item>
